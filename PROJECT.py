@@ -1,6 +1,6 @@
 '''
 PYTHON PROJECT(GAME)
-Developed by	:TAANISHQ SETHI & SIMAR SINGH
+Developed by	: TAANISHQ SETHI
 '''
 #introduction of the game
 print('WELCOME TO ROLL THE DICE GAME!!!!')
